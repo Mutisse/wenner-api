@@ -1,0 +1,279 @@
+[
+  {
+    "product": "691983b46a349e193417a6ce",
+    "sku": "MOLETOM-CONF-M-PRETO-P",
+    "color": "#000000",
+    "size": "P",
+    "price": 39.99,
+    "stock": 80,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ce",
+    "sku": "MOLETOM-CONF-M-PRETO-M",
+    "color": "#000000",
+    "size": "M",
+    "price": 39.99,
+    "stock": 120,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ce",
+    "sku": "MOLETOM-CONF-M-PRETO-G",
+    "color": "#000000",
+    "size": "G",
+    "price": 39.99,
+    "stock": 100,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ce",
+    "sku": "MOLETOM-CONF-M-CINZA-P",
+    "color": "#808080",
+    "size": "P",
+    "price": 39.99,
+    "stock": 60,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ce",
+    "sku": "MOLETOM-CONF-M-CINZA-M",
+    "color": "#808080",
+    "size": "M",
+    "price": 39.99,
+    "stock": 90,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ce",
+    "sku": "MOLETOM-CONF-M-VERMELHO-G",
+    "color": "#DC143C",
+    "size": "G",
+    "price": 39.99,
+    "stock": 70,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6cd",
+    "sku": "SAIA-MIDI-F-PRETO-36",
+    "color": "#000000",
+    "size": "36",
+    "price": 59.99,
+    "stock": 40,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cd",
+    "sku": "SAIA-MIDI-F-PRETO-38",
+    "color": "#000000",
+    "size": "38",
+    "price": 59.99,
+    "stock": 55,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cd",
+    "sku": "SAIA-MIDI-F-ROSA-36",
+    "color": "#FFB6C1",
+    "size": "36",
+    "price": 59.99,
+    "stock": 35,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cd",
+    "sku": "SAIA-MIDI-F-BEGE-40",
+    "color": "#F5F5DC",
+    "size": "40",
+    "price": 59.99,
+    "stock": 30,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6cc",
+    "sku": "TENIS-CASUAL-U-BRANCO-37",
+    "color": "#FFFFFF",
+    "size": "37",
+    "price": 69.99,
+    "stock": 50,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cc",
+    "sku": "TENIS-CASUAL-U-BRANCO-39",
+    "color": "#FFFFFF",
+    "size": "39",
+    "price": 69.99,
+    "stock": 65,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cc",
+    "sku": "TENIS-CASUAL-U-PRETO-40",
+    "color": "#000000",
+    "size": "40",
+    "price": 69.99,
+    "stock": 80,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cc",
+    "sku": "TENIS-CASUAL-U-CINZA-38",
+    "color": "#A9A9A9",
+    "size": "38",
+    "price": 69.99,
+    "stock": 45,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6ca",
+    "sku": "JOGGER-M-PRETO-P",
+    "color": "#000000",
+    "size": "P",
+    "price": 49.99,
+    "stock": 90,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ca",
+    "sku": "JOGGER-M-CINZA-M",
+    "color": "#696969",
+    "size": "M",
+    "price": 49.99,
+    "stock": 110,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6ca",
+    "sku": "JOGGER-M-AZUL-G",
+    "color": "#00008B",
+    "size": "G",
+    "price": 49.99,
+    "stock": 75,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6cb",
+    "sku": "BLAZER-F-PRETO-38",
+    "color": "#000000",
+    "size": "38",
+    "price": 129.99,
+    "stock": 25,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cb",
+    "sku": "BLAZER-F-BEGE-40",
+    "color": "#D2B48C",
+    "size": "40",
+    "price": 129.99,
+    "stock": 20,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6cb",
+    "sku": "BLAZER-F-MARINHO-42",
+    "color": "#000080",
+    "size": "42",
+    "price": 129.99,
+    "stock": 18,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6c8",
+    "sku": "VESTIDO-VERAO-F-FLORAL-36",
+    "color": "#FF69B4",
+    "size": "36",
+    "price": 79.99,
+    "stock": 40,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c8",
+    "sku": "VESTIDO-VERAO-F-AZUL-38",
+    "color": "#00B7EB",
+    "size": "38",
+    "price": 79.99,
+    "stock": 55,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c8",
+    "sku": "VESTIDO-VERAO-F-VERDE-40",
+    "color": "#008000",
+    "size": "40",
+    "price": 79.99,
+    "stock": 30,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6c9",
+    "sku": "JAQUETA-JEANS-U-AZUL-40",
+    "color": "#4169E1",
+    "size": "40",
+    "price": 89.99,
+    "stock": 60,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c9",
+    "sku": "JAQUETA-JEANS-U-AZUL-42",
+    "color": "#4169E1",
+    "size": "42",
+    "price": 89.99,
+    "stock": 70,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c9",
+    "sku": "JAQUETA-JEANS-U-PRETO-44",
+    "color": "#000000",
+    "size": "44",
+    "price": 89.99,
+    "stock": 45,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+
+  {
+    "product": "691983b46a349e193417a6c7",
+    "sku": "CAMISETA-PREM-M-BRANCO-P",
+    "color": "#FFFFFF",
+    "size": "P",
+    "price": 25.00,
+    "stock": 150,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c7",
+    "sku": "CAMISETA-PREM-M-BRANCO-M",
+    "color": "#FFFFFF",
+    "size": "M",
+    "price": 25.00,
+    "stock": 200,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c7",
+    "sku": "CAMISETA-PREM-M-PRETO-G",
+    "color": "#000000",
+    "size": "G",
+    "price": 25.00,
+    "stock": 180,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  },
+  {
+    "product": "691983b46a349e193417a6c7",
+    "sku": "CAMISETA-PREM-M-CINZA-GG",
+    "color": "#808080",
+    "size": "GG",
+    "price": 25.00,
+    "stock": 100,
+    "image": "https://i.pinimg.com/1200x/a7/2f/db/a72fdbea7e86c3fb70a17c166a36407b.jpg"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "review": "Camiseta incrível! O tecido é muito macio e o caimento perfeito. Comprei nas cores branca e preta.",
+    "rating": 5,
+    "createdAt": "2024-10-15T08:30:00.000Z",
+    "product": "691983b46a349e193417a6c7",
+    "user": "5c8a1dfa2f8fb814b56fa181"
+  },
+  {
+    "review": "Boa camiseta pelo preço, mas encolheu um pouco após a primeira lavagem. Recomendo comprar um número maior.",
+    "rating": 3,
+    "createdAt": "2024-10-18T14:20:00.000Z",
+    "product": "691983b46a349e193417a6c7",
+    "user": "5c8a1ec62f8fb814b56fa183"
+  },
+  {
+    "review": "Vestido lindo e muito confortável! Perfeito para o verão, recebi vários elogios quando usei.",
+    "rating": 5,
+    "createdAt": "2024-09-22T10:15:00.000Z",
+    "product": "691983b46a349e193417a6c8",
+    "user": "5c8a1f4e2f8fb814b56fa185"
+  },
+  {
+    "review": "O vestido é bonito mas o tecido é um pouco transparente. Precisei usar uma segunda pele por baixo.",
+    "rating": 4,
+    "createdAt": "2024-09-25T16:45:00.000Z",
+    "product": "691983b46a349e193417a6c8",
+    "user": "5c8a1e1a2f8fb814b56fa182"
+  },
+  {
+    "review": "Jaqueta jeans de ótima qualidade! A lavagem vintage é exatamente como nas fotos.",
+    "rating": 5,
+    "createdAt": "2024-11-05T11:30:00.000Z",
+    "product": "691983b46a349e193417a6c9",
+    "user": "5c8a24402f8fb814b56fa190"
+  },
+  {
+    "review": "Jaqueta legal, mas achei os bolsos um pouco pequenos. De resto, gostei muito!",
+    "rating": 4,
+    "createdAt": "2024-11-08T09:20:00.000Z",
+    "product": "691983b46a349e193417a6c9",
+    "user": "5c8a24822f8fb814b56fa192"
+  },
+  {
+    "review": "Calça jogger muito confortável! Uso para academia e para sair, versátil e estilosa.",
+    "rating": 5,
+    "createdAt": "2024-10-30T13:10:00.000Z",
+    "product": "691983b46a349e193417a6ca",
+    "user": "5c8a245f2f8fb814b56fa191"
+  },
+  {
+    "review": "Gostei da calça, mas o elástico da cintura poderia ser mais firme.",
+    "rating": 4,
+    "createdAt": "2024-11-02T15:40:00.000Z",
+    "product": "691983b46a349e193417a6ca",
+    "user": "5c8a1f292f8fb814b56fa184"
+  },
+  {
+    "review": "Blazer perfeito! Caimento impecável e tecido de alta qualidade. Vale cada centavo!",
+    "rating": 5,
+    "createdAt": "2024-09-10T12:25:00.000Z",
+    "product": "691983b46a349e193417a6cb",
+    "user": "5c8a23c82f8fb814b56fa18d"
+  },
+  {
+    "review": "Blazer bonito, mas achei um pouco apertado nos ombros. Talvez precise pegar um número maior.",
+    "rating": 4,
+    "createdAt": "2024-09-12T14:50:00.000Z",
+    "product": "691983b46a349e193417a6cb",
+    "user": "5c8a24a02f8fb814b56fa193"
+  },
+  {
+    "review": "Tênis muito confortável! Uso para caminhar todos os dias e não dói os pés.",
+    "rating": 5,
+    "createdAt": "2024-11-12T07:45:00.000Z",
+    "product": "691983b46a349e193417a6cc",
+    "user": "5c8a23de2f8fb814b56fa18e"
+  },
+  {
+    "review": "Tênis bonito, mas a sola é um pouco lisa em pisos molhados. Cuidado ao usar na chuva.",
+    "rating": 3,
+    "createdAt": "2024-11-15T18:30:00.000Z",
+    "product": "691983b46a349e193417a6cc",
+    "user": "5c8a24282f8fb814b56fa18f"
+  },
+  {
+    "review": "Saia linda e muito elegante! Os detalhes plissados são perfeitos.",
+    "rating": 5,
+    "createdAt": "2024-10-20T11:15:00.000Z",
+    "product": "691983b46a349e193417a6cd",
+    "user": "5c8a23412f8fb814b56fa18c"
+  },
+  {
+    "review": "Saia bonita, mas o zíper é frágil. Tive que trocar após 2 meses de uso.",
+    "rating": 2,
+    "createdAt": "2024-10-25T16:20:00.000Z",
+    "product": "691983b46a349e193417a6cd",
+    "user": "5c8a20d32f8fb814b56fa187"
+  },
+  {
+    "review": "Moletom super confortável e quentinho! Perfeito para os dias frios.",
+    "rating": 5,
+    "createdAt": "2024-11-01T09:40:00.000Z",
+    "product": "691983b46a349e193417a6ce",
+    "user": "5c8a211f2f8fb814b56fa188"
+  },
+  {
+    "review": "Moletom gostoso de usar, mas desbotou um pouco após algumas lavagens.",
+    "rating": 3,
+    "createdAt": "2024-11-05T14:10:00.000Z",
+    "product": "691983b46a349e193417a6ce",
+    "user": "5c8a201e2f8fb814b56fa186"
+  },
+  {
+    "review": "Comprei a camiseta em três cores! Qualidade excelente e preço justo.",
+    "rating": 5,
+    "createdAt": "2024-10-28T10:05:00.000Z",
+    "product": "691983b46a349e193417a6c7",
+    "user": "5c8a22c62f8fb814b56fa18b"
+  },
+  {
+    "review": "Vestido chegou antes do prazo! Ficou perfeito no casamento que fui.",
+    "rating": 5,
+    "createdAt": "2024-09-28T13:35:00.000Z",
+    "product": "691983b46a349e193417a6c8",
+    "user": "5c8a21d02f8fb814b56fa189"
+  },
+  {
+    "review": "Jaqueta jeans clássica que combina com tudo. Investimento que vale a pena!",
+    "rating": 5,
+    "createdAt": "2024-11-10T15:55:00.000Z",
+    "product": "691983b46a349e193417a6c9",
+    "user": "5c8a21f22f8fb814b56fa18a"
+  },
+  {
+    "review": "Calça jogger ideal para treinar. Não aperta e permite total liberdade de movimento.",
+    "rating": 4,
+    "createdAt": "2024-11-08T12:30:00.000Z",
+    "product": "691983b46a349e193417a6ca",
+    "user": "5c8a1d5b0190b214360dc057"
+  }
+]

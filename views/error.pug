@@ -1,0 +1,19 @@
+doctype html
+html(lang="pt-BR")
+  head
+    title= title
+    meta(charset="utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    style.
+      body { font-family: Arial, sans-serif; background: #f8f8f8; color: #333; margin: 0; padding: 2rem; }
+      .container { max-width: 640px; margin: 0 auto; background: #fff; padding: 2rem; border-radius: 10px; box-shadow: 0 16px 40px rgba(0,0,0,.08); }
+      h1 { margin-top: 0; color: #d32f2f; }
+      p { line-height: 1.6; }
+      a { color: #1976d2; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+  body
+    .container
+      h1= title
+      p= msg
+      p
+        a(href="/") Voltar para a página inicial

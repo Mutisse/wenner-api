@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Camiseta Premium de Algodão",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=600&fit=crop",
+    "category": "Camisetas",
+    "gender": "Masculino",
+    "rating": 4.5,
+    "description": "Camiseta confortável de algodão premium com caimento moderno"
+  },
+  {
+    "name": "Vestido Elegante de Verão",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500&h=600&fit=crop",
+    "category": "Vestidos",
+    "gender": "Feminino",
+    "rating": 4.8,
+    "description": "Vestido fluído de verão perfeito para qualquer ocasião"
+  },
+  {
+    "name": "Jaqueta Jeans Clássica",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500&h=600&fit=crop",
+    "category": "Blazers",
+    "gender": "Unissex",
+    "rating": 4.7,
+    "description": "Jaqueta jeans atemporal com lavagem vintage",
+    "discount": 25
+  },
+  {
+    "name": "Calça Jogger Esportiva",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500&h=600&fit=crop",
+    "category": "Calças",
+    "gender": "Masculino",
+    "rating": 4.3,
+    "description": "Joggers confortáveis para estilo de vida ativo"
+  },
+  {
+    "name": "Blazer Estiloso",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&h=600&fit=crop",
+    "category": "Blazers",
+    "gender": "Feminino",
+    "rating": 4.9,
+    "description": "Blazer profissional para a mulher moderna"
+  },
+  {
+    "name": "Tênis Casual",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&h=600&fit=crop",
+    "category": "Calçados",
+    "gender": "Unissex",
+    "rating": 4.6,
+    "description": "Tênis versáteis para uso diário",
+    "discount": 22
+  },
+  {
+    "name": "Saia Midi Plissada",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&h=600&fit=crop",
+    "category": "Saias",
+    "gender": "Feminino",
+    "rating": 4.4,
+    "description": "Saia midi elegante com detalhes plissados"
+  },
+  {
+    "name": "Moletom Confortável",
+    "price": 39.99,
+    "originalPrice": 49.99,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=600&fit=crop",
+    "category": "Moletons",
+    "gender": "Masculino",
+    "rating": 4.2,
+    "description": "Moletom aconchegante para dias relaxantes",
+    "discount": 20
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+*.env
+config.env
+.env
+.cache/
+.parcel-cache/
+*.log
+.git-old/
+public/js/bundle.js
+public/js/bundle.js.map
+public/js/mapbox.js
