@@ -181,11 +181,6 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
 
   // 3) Send it to user's email
   try {
-    // const resetURL = `${req.protocol}://${req.get(
-    //   'host'
-    // )}/api/v1/users/resetPassword/${resetToken}`;
-    // await new Email(user, resetURL).sendPasswordReset();
-
     const frontendHost =
       req.get('origin') || process.env.FRONTEND_URL || 'http://localhost:8081';
     const resetURL = `${frontendHost}/auth?token=${resetToken}`;
@@ -253,4 +248,19 @@ exports.updatePassword = catchAsync(async (req, res, next) => {
 
   // 4) Log user in, send JWT
   createSendToken(user, 200, res);
+});
+
+exports.checkEmail = catchAsync(async (req, res, next) => {
+  const { email } = req.body;
+
+  if (!email) {
+    return next(new AppError('Por favor, forneça um e-mail!', 400));
+  }
+
+  const user = await User.findOne({ email: email.toLowerCase() });
+
+  res.status(200).json({
+    status: 'success',
+    exists: !!user
+  });
 });

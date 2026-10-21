@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node server.js",
     "start:prod": "NODE_ENV=production node server.js",
-    "debug": "ndb server.js"
+    "debug": "ndb server.js",
+    "dev": "nodemon server.js"
+    
   },
   "author": "Alberto Dgedge",
   "license": "ISC",
